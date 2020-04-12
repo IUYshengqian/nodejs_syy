@@ -86,7 +86,7 @@ npm install gulp-livereload
 npm install gulp-plumber
 npm install gulp-rename
 npm install gulp-uglify
-npm install gulp-util
+npm install gulp-util --save-dev
 history
 ll
 touch tasks/page.js
